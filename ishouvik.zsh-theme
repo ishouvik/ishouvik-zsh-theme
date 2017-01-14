@@ -1,6 +1,6 @@
 # vim:ft=zsh ts=2 sw=2 sts=2
 #
-# ishouvik's Theme - https://gist.github.com/3712874
+# ishouvik's Theme - https://github.com/ishouvik/ishouvik-zsh-theme
 # A Powerline-inspired theme for ZSH
 #
 # # README
@@ -11,11 +11,7 @@
 # uses changed in 2012, and older versions will display incorrectly,
 # in confusing ways.
 #
-# In addition, I recommend the
-# [Solarized theme](https://github.com/altercation/solarized/) and, if you're
-# using it on Mac OS X, [iTerm 2](http://www.iterm2.com/) over Terminal.app -
-# it has significantly better color fidelity.
-#
+
 # # Goals
 #
 # The aim of this theme is to only show you *relevant* information. Like most
